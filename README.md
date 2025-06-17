@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/stvagi-mempool-mcp-badge.png)](https://mseep.ai/app/stvagi-mempool-mcp)
+
 # Bitcoin Mempool MCP Server ⚡️
 
 ## Collaboration between [AICMP <img src="https://github.com/stvagi/mempool-mcp/raw/main/src/aicmp.jpg" width="20" style="border-radius:50%"/>](https://x.com/AICMPBTC) and [MOOF <img src="https://github.com/stvagi/mempool-mcp/raw/main/src/moof.png" width="20" style="border-radius:50%"/>](https://x.com/moofdotfun)
